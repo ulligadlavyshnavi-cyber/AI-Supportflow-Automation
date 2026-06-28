@@ -1,0 +1,8 @@
+Application crash:
+- Restart application.
+- Update to latest version.
+- Check internet connection.
+
+Login issues:
+- Reset password.
+- Clear browser cache.

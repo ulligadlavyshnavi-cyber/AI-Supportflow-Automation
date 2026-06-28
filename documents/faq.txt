@@ -1,0 +1,7 @@
+Q: How do I reset my password?
+
+A: Click Forgot Password on the login page.
+
+Q: How do I download invoices?
+
+A: Go to Billing → Invoices.
